@@ -1,6 +1,8 @@
 # project stuff
 
 TODO.txt
+analysis.txt
+crawl_scores.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
